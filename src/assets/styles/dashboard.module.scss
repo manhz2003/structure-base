@@ -1,0 +1,26 @@
+.statistical {
+    width: calc(100%/3);
+    min-height: 150px;
+    border-radius: 12px;
+    padding: 12px 24px;
+    margin: 0 24px;
+    position: relative;
+
+    p {
+        font-size: 32px;
+        color: #fff;
+    }
+
+    h6 {
+        font-size: 18px;
+        color: #fff;
+    }
+
+    span {
+        position: absolute;
+        right: 24px;
+        top: 12px;
+        font-size: 32px;
+        color: #fff;
+    }
+}
